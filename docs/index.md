@@ -43,7 +43,7 @@ Pablo Montijo
 
 **MY21 T680**
 
-* Implemented Engineering Changes to fix an exhaust interference issue.
+* Implemented Engineering Changes to fix an exhaust pipe-transmission interference issue.
 
 ![MY21 T680](MY21_T680.PNG)
 #### Figure 4. Shows a T680 Truck
