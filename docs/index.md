@@ -1,10 +1,6 @@
 Pablo Montijo
 
- 4/26/2021
-
  Design Portfolio at Paccar
-
-[github link](https://github.com/pablomarcel/IntroToProg-Python-Mod07) "for Assignment 07"
 
 # Introduction
 
@@ -33,7 +29,7 @@ Pablo Montijo
 
 **MY21 T680**
 
- Python can create an exception object whenever an error occurs. Having an object available allows for making inquiries about the object properties such as its ‘docstring’, its string representation, or the error type (Root, R. Programming with Python, Module 07 Notes, page 16). 
+* Implemented Engineering Changes to fix an exhaust interference issue 
 
 ![MY21 T680](MY21_T680.PNG)
 #### Figure 4. Shows a T680 Truck
