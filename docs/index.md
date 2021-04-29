@@ -27,6 +27,7 @@ Pablo Montijo
 * Coordinated hydraulic clutch assist installations for manual transmissions to improve performance over legacy product.
 * Implemented new clutches compatible with hydraulic clutch assist.
 * Authored application compatibility rules.
+* Coordinated QFD, FMEA, DVP&R, PSM.
 * Coordinated pilot build support.
 
 ![New Medium Duty](new_medium_duty.PNG)
@@ -39,6 +40,7 @@ Pablo Montijo
 * Designed transmission support brackets and springs.
 * Implemented transmission dipstick tubes.
 * Authored application compatibility rules.
+* Coordinated QFD, FMEA, DVP&R, PSM.
 * Coordinated pilot build support.
 
 ![TX-8 Transmission](TX-8_Transmission.PNG)
