@@ -1,5 +1,6 @@
 Pablo Montijo
-Sr. Design Engineer, Paccar
+Sr. Design Engineer
+Paccar
 
  Design Portfolio
 
