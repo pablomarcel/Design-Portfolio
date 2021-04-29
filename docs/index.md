@@ -30,3 +30,10 @@ Pablo Montijo
 
 ![TX-8 Transmission](TX-8_Transmission.PNG)
 #### Figure 3. Shows the TX-8 Transmission
+
+**MY21 T680**
+
+ Python can create an exception object whenever an error occurs. Having an object available allows for making inquiries about the object properties such as its ‘docstring’, its string representation, or the error type (Root, R. Programming with Python, Module 07 Notes, page 16). 
+
+![MY21 T680](MY21_T680.PNG)
+#### Figure 4. Shows a T680 Truck
