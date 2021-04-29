@@ -4,8 +4,6 @@ Pablo Montijo
  
  Paccar
 
-# Design Portfolio
-
 # Introduction
 
  In this document present the projects I've been working on at Paccar and the tasks I have completed.
