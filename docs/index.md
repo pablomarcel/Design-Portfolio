@@ -6,7 +6,7 @@ Pablo Montijo
 
 # Introduction
 
- I am a Design Engineer with more than 6 years of experience in the Automotive Industry. In the past couple of years I have been working on transmission integration projects supporing major programs such as T680 Next Gen, New Medium Duty, TX-8 Transmission and MY21 Trucks. In this document I present the projects I've been working on and the tasks I have completed so far. 
+ I am a Design Engineer with more than 6 years of experience in the Automotive Industry. In the past couple of years I have been working on transmission integration projects supporting major programs such as T680 Next Gen, New Medium Duty, TX-8 Transmission and MY21 Trucks. In this document I present the projects I've been working on and the tasks I have completed so far. 
  
 <br/><br/>
 
