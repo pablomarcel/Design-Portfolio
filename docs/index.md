@@ -24,6 +24,7 @@ Pablo Montijo
 * Released Dipstick tubes for 26 Transmission - Engine Combinations.
 * Created coverage for Transmission Support for 332 Transmission - Engine Combinations.
 * Coordinated hydraulic clutch assist installations for Manual Transmissions to improve performance over legacy product.
+* Authored Application Compatibility Rules
 * Coordinated Pilot Build Support.
 
 ![New Medium Duty](new_medium_duty.PNG)
