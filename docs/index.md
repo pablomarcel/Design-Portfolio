@@ -30,7 +30,7 @@ Pablo Montijo
 
 ![New Medium Duty](new_medium_duty.PNG)
 #### Figure 2. Shows the New Medium Duty Lineup
-
+ 
 
 **TX-8 Transmission**
 
