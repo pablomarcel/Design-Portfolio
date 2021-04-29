@@ -17,6 +17,7 @@ Pablo Montijo
 ![T680 Next Gen](T680_Next_Gen-a.PNG)
 #### Figure 1. Shows a T680 Next Gen Truck
 
+#  
 
 ## New Medium Duty
 
@@ -31,6 +32,7 @@ Pablo Montijo
 ![New Medium Duty](new_medium_duty.PNG)
 #### Figure 2. Shows the New Medium Duty Lineup
 
+#  
 
 ## TX-8 Transmission
 
@@ -44,6 +46,7 @@ Pablo Montijo
 ![TX-8 Transmission](TX-8_Transmission.PNG)
 #### Figure 3. Shows the TX-8 Transmission
 
+#  
 
 ## MY21 T680
 
@@ -51,3 +54,5 @@ Pablo Montijo
 
 ![MY21 T680](MY21_T680.PNG)
 #### Figure 4. Shows a T680 Truck
+
+#  
