@@ -19,6 +19,7 @@ Pablo Montijo
 ![T680 Next Gen](T680_Next_Gen-a.PNG)
 #### Figure 1. Shows a T680 Next Gen Truck
 
+
 **New Medium Duty**
 
 * Released dipstick tubes and bracketry for 26 Transmission - Engine Combinations.
@@ -31,6 +32,7 @@ Pablo Montijo
 ![New Medium Duty](new_medium_duty.PNG)
 #### Figure 2. Shows the New Medium Duty Lineup
 
+
 **TX-8 Transmission**
 
 * Created coverage for power take off installations.
@@ -41,6 +43,7 @@ Pablo Montijo
 
 ![TX-8 Transmission](TX-8_Transmission.PNG)
 #### Figure 3. Shows the TX-8 Transmission
+
 
 **MY21 T680**
 
