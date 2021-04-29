@@ -14,7 +14,7 @@ Pablo Montijo
 
  One of the benefits of using a function is flexibility. By using a function multiple built-in python commands can be used and the docstring can be updated with information  about parameters and return values as applicable to those built-in functions (Root, R. Programming with Python, Module 07 Notes, page 2). The function allows for customization and code simplification at the same time. An example is shown in figure 1.
  
-![T680 Next Gen](T680_Next_Gen.PNG)
+![T680 Next Gen](T680_Next_Gen-a.PNG)
 #### Figure 1. Shows a T680 Next Gen Truck
 
 **New Medium Duty**
